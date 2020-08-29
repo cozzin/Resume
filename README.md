@@ -13,6 +13,15 @@
 
 ## 프로젝트
 
+### 네이버 카페 iOS
+* 레거시 코드를 유지보수 하고 개선하는 업무를 주로 했습니다.
+* 설계 원칙과 디자인 패턴을 공부해야겠다는 필요성을 더욱 느꼈습니다.
+* MVVM 패턴을 이용한 테이블뷰 라이브러리 제작: [MVVM 공부하면서 번역한 자료](https://medium.com/@hongseongho/%EC%A0%95%EB%A6%AC-better-user-and-developer-experiences-from-windows-forms-to-wpf-with-mvvm-a381a26837d)
+* URL 스킴을 라우팅 해주는 라이브러리 제작
+* 쿠키 관리 문제 해결을 위해 라이브러리 기여
+* 선언형 프로그래밍 주제로 발표: ([내용](https://medium.com/@hongseongho/%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1d8247342f17)) 
+* CocoaPods 신입 대상으로 강의 ([내용](https://medium.com/@hongseongho/cocoapods-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%ED%8C%8C%EC%9D%BC%EA%B5%AC%EC%A1%B0-c0ea2ef362d6))
+
 ### Dot App iOS
 1) 진행기간: 2016.06 ~ 2017.6
 2) 주요내용: 점자 스마트워치 연동 iOS 앱 개발
