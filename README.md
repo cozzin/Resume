@@ -20,7 +20,7 @@
 * URL 스킴을 라우팅 해주는 라이브러리 제작
 * 쿠키 관리 문제 해결을 위해 라이브러리 기여
 * 선언형 프로그래밍 주제로 발표: [관련내용](https://medium.com/@hongseongho/%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1d8247342f17) 
-* CocoaPods 신입 대상으로 강의 [관련내용](https://medium.com/@hongseongho/cocoapods-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%ED%8C%8C%EC%9D%BC%EA%B5%AC%EC%A1%B0-c0ea2ef362d6)
+* CocoaPods 신입 대상으로 강의: [관련내용](https://medium.com/@hongseongho/cocoapods-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%ED%8C%8C%EC%9D%BC%EA%B5%AC%EC%A1%B0-c0ea2ef362d6)
 
 ### Dot App iOS
 1) 진행기간: 2016.06 ~ 2017.6
