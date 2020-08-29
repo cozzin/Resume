@@ -1,4 +1,6 @@
 # Resume
+
+안녕하세요. 깊이 있는 개발을 하고 싶은 홍성호입니다.
 * Email: hsh3592@gmail.com
 * Blog: https://medium.com/@hongseongho
 
