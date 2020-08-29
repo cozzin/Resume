@@ -9,7 +9,7 @@
 
 ### Dot incorporatoin
 * 스마트워치 연동 iOS 앱 개발
-* 2017.12.18 ~ 현재
+* 2016.06.23 ~ 2017.06.23
 
 ## 프로젝트
 
@@ -20,6 +20,8 @@
 4) 사용한 Skill 또는 지식: Objective-C, Swift
 5) 결과/성과
 * 앱스토어: https://itunes.apple.com/us/app/dot-watch/id1180412560?mt=8
+
+<img src="Image/DotWatchApp.png">
 
 ### Dot Watch BLE Test App
 1) 진행기간: 2016.10 ~ 2017.6
@@ -37,6 +39,8 @@
 * 앱스토어: https://appsto.re/kr/g_Hhib.i
 * 페이스북 페이지: https://www.facebook.com/tasteapoem/
 * github: https://github.com/jieumjigi
+
+<img src="Image/sieum.png">
 
 ### 시각장애인을 위한 신문앱
 1) 진행기간: 2016.02 ~ 2016.04
@@ -58,6 +62,8 @@
 * 논문 2: https://www.slideshare.net/SeongHoHong5/ss-76374848
 * 논문 3: https://www.slideshare.net/SeongHoHong5/ss-76374416
 * 해외논문: https://link.springer.com/chapter/10.1007%2F978-981-10-1409-3_25
+
+<img src="Image/Pre-extraction_of_Features_and_Environment_Variable-based_Database_Filtering_for_Fast_Image_Matching_on_Mobile.png">
 
 ### 카메라가 고정된 영상에서 배경 추출 및 움직이는 물체 파악
 1) 진행기간: 2015.09 ~ 2015.11
