@@ -2,9 +2,9 @@
 
 안녕하세요. 깊이 있는 개발을 하고 싶은 홍성호입니다.
 
-✍️ Blog: https://medium.com/@hongseongho
+✍️  Blog: https://medium.com/@hongseongho
 
-✉️ Email: hsh3592@gmail.com
+✉️  Email: hsh3592@gmail.com
 
 ## 경력
 ### Naver
