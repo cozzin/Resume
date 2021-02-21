@@ -55,6 +55,8 @@
 4) 사용한 Skill 또는 지식: java
 5) 결과/성과: 생산 라인에서 사용
 
+## 개인 프로젝트
+
 ### 시음
 <img src="Image/sieum.png">
 
@@ -66,6 +68,8 @@
 * 앱스토어: https://appsto.re/kr/g_Hhib.i
 * 페이스북 페이지: https://www.facebook.com/tasteapoem/
 * github: https://github.com/jieumjigi
+
+## 학부 프로젝트
 
 ### 시각장애인을 위한 신문앱
 1) 진행기간: 2016.02 ~ 2016.04
